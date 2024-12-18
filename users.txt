@@ -1,0 +1,6 @@
+Vin Ze;Beh;behvinze@gmail.com;123;A;0;0;2024-10-05 23:13:19
+Zhong Zhe;Sam;sam@gmail.com;234;S;0;0;2024-10-05 22:45:40
+Hao Ming;Lee;henry@gmail.com;345;M;0;0;2024-10-05 23:08:49
+Yon Ning;Tiong;yn@gmail.com;1234;S;1;Red;2024-08-22 03:49:19  
+Yong Liang;Chan;ylchan@gmail.com;123;C;1;Red;2024-10-05 23:50:16
+William;Chan;william@gmail.com;1234;C;2;sunway;      

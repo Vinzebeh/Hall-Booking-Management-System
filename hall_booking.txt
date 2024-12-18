@@ -1,0 +1,5 @@
+Meeting Room;Meeting 10;Unavailable;2024/7/11;2024/7/12;Window damaged
+Auditorium;Audi 7;Unavailable;2024/7/11;2024/7/12;Window damaged
+Meeting Room;Audi 100;Unavailable;2024/7/11;2024/7/12;APU 4F-01
+Banquet Hall;Banquet Hall 2;Unavailable;2024/10/1;2024/10/10;blablabla
+Banquet Hall;Hall 1;Available; ; 

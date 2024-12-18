@@ -1,0 +1,6 @@
+Meeting Room;Meeting 10;30;APU S-10-20
+Auditorium;Audi 7;1000;APU E-07-20
+Meeting Room;Audi 100;1000;APU 4F-01
+Banquet Hall;Banquet Hall 2;300;APU S-02-03
+Auditorium;Audi 12;1000;APU 3F-01
+Banquet Hall;Hall 1;300;Level 4

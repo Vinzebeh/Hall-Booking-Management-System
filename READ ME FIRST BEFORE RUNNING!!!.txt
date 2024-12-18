@@ -1,3 +1,0 @@
-For the Customer Booking Page, need to put the JCalender inside, 
-and change the variable name to "StrDateChoose" 
-and also set the properties dateformatString to "yyyy/M/d"
